@@ -16,3 +16,4 @@ if __name__=='__main__':
     print("Sip Version is: {}".format(SIP_VERSION_STR))
 
     sys.exit(app.exec_())
+    print("ok!")
